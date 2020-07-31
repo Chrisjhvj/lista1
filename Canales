@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="", HBO EN VIVO HD
+https://edge3-sl.cvattv.com.ar//live/c3eds/HBOHD/verimatrix_rotating_FTA/HBOHD-video=3900000.m3u8
